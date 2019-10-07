@@ -1,4 +1,6 @@
-# Photo-Gradients
+# Local-Photo-Searcher
+This program is currently in progress to shift to an offline version. Some of the following information may not apply.
+
 This program is intended to allow the sorting and searching of images. One of
 the main features is that it allows you to make image gradients arrangements.
 It also allows you to search through images by colors within the image, lens
